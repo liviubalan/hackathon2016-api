@@ -1,11 +1,12 @@
 {
-  "similar_products": [
+  "live_products": [
     {
       "product_title": "Tablete Finish Quantum, 20 buc, 430 g",
       "product_url": "#/product/DTPGQBBBM",
       "product_image": "https://s0emagst.akamaized.net/products/721/720037/images/res_b899ceb18c68951c567cea0b547a634a_150x150_itj8.jpg",
       "feedback_rating": 5,
       "price": 45.99,
+      "reviews_count":4,
       "old_price": 79.99,
       "discount": 42
     },
@@ -15,43 +16,48 @@
       "product_image": "https://s0emagst.akamaized.net/products/2174/2173036/images/res_25d7ad5a8be4b85bf66f2e6b300e4e48_150x150_teta.jpg",
       "feedback_rating": 4.2,
       "price": 159.99,
+      "reviews_count":32,
       "old_price": 249.99,
       "discount": 36
     },
     {
-      "product_title": "Incarcator Wireless rapid Qi pentru smartphone si tablete",
+      "product_title": "Set 2 pachete, Scutece pentru copii Bambo Nature Maxi, No. 4, 7 - 18 kg, 120 buc + cadou servetele umede Bambo Nature, 80 buc",
       "product_url": "#/product/D9PYZYBBM/",
-      "product_image": "https://s0emagst.akamaized.net/products/2841/2840965/images/res_3107d7eb82e75685a8861ad4f3662d20_150x150_4413.jpg",
+      "product_image": "https://s0emagst.akamaized.net/products/3452/3451487/images/res_4bfc85285265dc2ba4e7720b8029f231_150x150_e0c2.jpg",
       "feedback_rating": 3.3,
       "price": 34.63,
+      "reviews_count":6,
       "old_price": 49.99,
       "discount": -30
     },
     {
-      "product_title": "Incarcator wireless Samsung pentru Galaxy S6 G920, Black + Capac protectie, Silver",
+      "product_title": "Detergent lichid eco Earth Friendly Products, fara miros superconcentrat, 1.5 L",
       "product_url": "#/product/DTK7QBBBM/",
-      "product_image": "https://s0emagst.akamaized.net/products/1823/1822114/images/res_cbeedd17fca610570b328062aadf8c23_150x150_t86j.jpg",
+      "product_image": "https://s0emagst.akamaized.net/products/3210/3209921/images/res_6a86806a2d9c54ab6d4824d297c2e73d_150x150_1td2.jpg",
       "feedback_rating": 2.9,
-      "price": 43.99,
-      "old_price": 79.99,
-      "discount": -45
+      "price": 33.99,
+      "reviews_count":87,
+      "old_price": 39.99,
+      "discount": -6
     },
     {
       "product_title": "Incarcator universal wireless Qi Freedy mini",
       "product_url": "#/product/DQ317YBBM/",
-      "product_image": "https://s0emagst.akamaized.net/products/1701/1700222/images/res_d72f25f43f2ea7ec03428608daa7b7b5_150x150_pme0.jpg",
+      "product_image": "https://s0emagst.akamaized.net/products/655/654011/images/res_0788df6ba80fb9e57845cfd91e8f60fd_150x150_i2v8.jpg",
       "feedback_rating": 4.3,
       "price": 120.99,
+      "reviews_count":14,
       "old_price": 96.00,
       "discount": -20
     },
     {
-      "product_title": "Kit incarcare wireless Samsung, cu capac spate, folie protectie, adaptor USB pentru Galaxy Note7 N930, Black",
+      "product_title": "Manusi universale Vileda, M",
       "product_url": "#/product/DKK7QBBBM/",
-      "product_image": "https://s0emagst.akamaized.net/products/4049/4048465/images/res_79a799c6465cf52c7fa4912a985dc38c_150x150_qk7v.jpg",
+      "product_image": "https://s0emagst.akamaized.net/products/655/654011/images/res_0788df6ba80fb9e57845cfd91e8f60fd_150x150_i2v8.jpg",
       "feedback_rating": 1.9,
-      "price": 71.99,
-      "old_price": 49.99,
+      "price": 11.99,
+      "reviews_count":25,
+      "old_price": 12.99,
       "discount": -10
     }
   ]
