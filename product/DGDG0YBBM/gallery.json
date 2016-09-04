@@ -1,0 +1,58 @@
+{
+  "similar_products": [
+    {
+      "product_title": "Incarcator Wireless Nillkin Magic Disc 3 , Black",
+      "product_url": "#/product/DHK7QBBBM/",
+      "product_image": "https://s0emagst.akamaized.net/products/3375/3374696/images/res_5f9ecc5aa119cafea39ea3d317cbfd6a_150x150_s4ke.jpg",
+      "feedback_rating": 2.3,
+      "price": 163.99,
+      "old_price": 170.00,
+      "discount": 5
+    },
+    {
+      "product_title": "Incarcator wireless cu incarcare rapida Samsung pentru Galaxy S7/ S7 Edge, Black",
+      "product_url": "#/product/D4VJYMBBM/",
+      "product_image": "https://s0emagst.akamaized.net/products/3235/3234765/images/res_a08d79307447df079e7eb081cce4a845_150x150_fvff.jpg",
+      "feedback_rating": 4.2,
+      "price": 172.93,
+      "old_price": 279.99,
+      "discount": 38
+    },
+    {
+      "product_title": "Incarcator Wireless rapid Qi pentru smartphone si tablete",
+      "product_url": "#/product/D9PYZYBBM/",
+      "product_image": "https://s0emagst.akamaized.net/products/2841/2840965/images/res_3107d7eb82e75685a8861ad4f3662d20_150x150_4413.jpg",
+      "feedback_rating": 3.3,
+      "price": 34.63,
+      "old_price": 49.99,
+      "discount": -30
+    },
+    {
+      "product_title": "Incarcator wireless Samsung pentru Galaxy S6 G920, Black + Capac protectie, Silver",
+      "product_url": "#/product/DTK7QBBBM/",
+      "product_image": "https://s0emagst.akamaized.net/products/1823/1822114/images/res_cbeedd17fca610570b328062aadf8c23_150x150_t86j.jpg",
+      "feedback_rating": 2.9,
+      "price": 43.99,
+      "old_price": 79.99,
+      "discount": -45
+    },
+    {
+      "product_title": "Incarcator universal wireless Qi Freedy mini",
+      "product_url": "#/product/DQ317YBBM/",
+      "product_image": "https://s0emagst.akamaized.net/products/1701/1700222/images/res_d72f25f43f2ea7ec03428608daa7b7b5_150x150_pme0.jpg",
+      "feedback_rating": 4.3,
+      "price": 120.99,
+      "old_price": 96.00,
+      "discount": -20
+    },
+    {
+      "product_title": "Kit incarcare wireless Samsung, cu capac spate, folie protectie, adaptor USB pentru Galaxy Note7 N930, Black",
+      "product_url": "#/product/DKK7QBBBM/",
+      "product_image": "https://s0emagst.akamaized.net/products/4049/4048465/images/res_79a799c6465cf52c7fa4912a985dc38c_150x150_qk7v.jpg",
+      "feedback_rating": 1.9,
+      "price": 71.99,
+      "old_price": 49.99,
+      "discount": -10
+    }
+  ]
+}

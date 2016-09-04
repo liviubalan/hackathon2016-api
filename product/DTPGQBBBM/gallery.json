@@ -1,1 +1,59 @@
-{}
+{
+  "similar_products":[
+    {
+      "product_title":"Tablete Finish Quantum, 20 buc, 430g",
+      "product_url":"#/product/DHK7QBBBM/",
+      "product_image":"https://s0emagst.akamaized.net/products/721/720048/images/res_244bd0e1873c0ce6e31415aa0ede23bd_150x150_5aq3.jpg",
+      "feedback_rating":2.3,
+      "price":26.99,
+      "old_price":49.99,
+      "discount":46
+    },
+    {
+      "product_title":"Sare pentru masina de spalat vase, 1,5 kg",
+      "product_url":"#/product/D4VJYMBBM/",
+      "product_image":"https://s0emagst.akamaized.net/products/1000/999056/images/res_221ca447060bbee129ff2e633a26f907_150x150_opaq.jpg",
+      "feedback_rating":4.2,
+      "price":19.68,
+      "old_price":49.99,
+      "discount":10
+    },
+    {
+      "product_title":"Detergent de vase Finish All in one, 28 tablete + Solutie de curatare gratis, 250 ml",
+      "product_url":"#/product/D9PYZYBBM/",
+      "product_image":"https://s0emagst.akamaized.net/products/2505/2504752/images/res_4a7a9a66c0c2f8aa6b4697d0f6ebd465_150x150_c1t1.jpg",
+      "feedback_rating":3.3,
+      "price":34.63,
+      "old_price":49.99,
+      "discount":-30
+    },
+    {
+      "product_title":"Tablete Finish Quantum, 40 buc, 830g",
+      "product_url":"#/product/DTK7QBBBM/",
+      "product_image":"https://s0emagst.akamaized.net/products/721/720044/images/res_e3f2348ee6e698c9b1465e651f628d06_150x150_e5i4.jpg",
+      "feedback_rating":2.9,
+      "price":43.99,
+      "old_price":79.99,
+      "discount":-45
+    },
+    {
+      "product_title":"Detergent de vase Finish All in one Powerball, 28 pastile+12 gratis",
+      "product_url":"#/product/DQ317YBBM/",
+      "product_image":"https://s0emagst.akamaized.net/products/2019/2018217/images/res_facc36ad15992ca0af3e2607afff6e62_150x150_m85t.jpg",
+      "feedback_rating":4.3,
+      "price":34.63,
+      "old_price":49.99,
+      "discount":-30
+    },
+    {
+      "product_title":"Tablete Finish Quantum, Lemon, 40 buc, 830 g",
+      "product_url":"#/product/DKK7QBBBM/",
+      "product_image":"https://s0emagst.akamaized.net/products/721/720045/images/res_85dba940f4b4fd1c3fc15e66fc40ec22_150x150_dqbd.jpg",
+      "feedback_rating":1.9,
+      "price":71.99,
+      "old_price":49.99,
+      "discount":-10
+
+    }
+  ]
+}

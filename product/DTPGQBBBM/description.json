@@ -4,17 +4,20 @@
   "product_url":"/#/product/DTPGQBBBM",
   "breadcrumbs":[
     {
-      "name":"Casa, Bricolaj & Petshop"
+      "name":"Casa, Bricolaj & Petshop",
+      "url": false
     },
     {
       "name":"Curatenie & Intretinere",
       "url":"http://www.emag.ro/curatenie-intretinere/l?ref=bc"
     },
     {
-      "name":"Detergenti & Solutii de curatat"
+      "name":"Detergenti & Solutii de curatat",
+      "url": false
     },
     {
-      "name":"Bucatarie & Vase"
+      "name":"Bucatarie & Vase",
+      "url": false
     },
     {
       "name":"Bucatarie & Vase Finish",

@@ -1,0 +1,6 @@
+{
+  "price" : 159.99,
+  "old_price": 249.99,
+  "discount": 36,
+  "discount_type": "%"
+}
